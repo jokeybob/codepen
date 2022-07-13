@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    margin: -8px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family:'Roboto', sans-serif;
+}
